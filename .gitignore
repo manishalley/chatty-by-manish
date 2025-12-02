@@ -1,0 +1,6 @@
+﻿backend/.env
+backend/conversation.json
+venv/
+__pycache__/
+*.pyc
+.vscode/
